@@ -1,0 +1,16 @@
+---
+Welcome to CLIdeshow
+Create slideshow presentations right in your terminal!
+---
+Bash scripts
+This project is just a bash script to that formats your slide output.
+---
+Your slides
+You must first create your slides, put the title and description on separate lines and separate slides with 3 hyphens.
+---
+Figlet
+If you can read this, congrats! You have your fonts installed correctly.
+---
+Questions?
+If you have questions about this project, please submit an issue in the GitHub repository for this project. Thanks!
+---
