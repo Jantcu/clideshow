@@ -1,6 +1,8 @@
 # Clideshow
 A script for making CLI Slideshows
 
+![Screenshot of example slide](/assets/img/clideshow.png "Clideshow")
+
 ### Dependencies:
 You need to have Figlet installed in order to generate the formatted CLI text:
 ```
